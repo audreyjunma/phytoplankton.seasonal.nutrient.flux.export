@@ -36,13 +36,17 @@ All code is original code written by Audrey Ma. Special thank you and acknowledg
 I would also like to acknowledge these papers that were helpful in this project: 
 
 *Boyd et al. 2024* **"The role of biota in the Southern Ocean carbon cycle"**
+
 Link: https://www.nature.com/articles/s43017-024-00531-3#Abs1
 
 *Deppeler and Davidson 2017* **"Southern Ocean Phytoplankton in a Changing Climate"**
+
 Link: https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2017.00040/full
 
 *Purich and Doddridge 2023* **"Record low Antarctic sea ice coverage indicates a new sea ice state"**
+
 Link: https://www.nature.com/articles/s43247-023-00961-9
 
 *Meiners et al. 2012* **"Introduction: SIPEX-2: A study of sea-ice physical, biogeochemical and ecosystem processes off East Antarctica during spring 2012"**
+
 Link: https://www.sciencedirect.com/science/article/abs/pii/S0967064516301710?via%3Dihub
