@@ -27,6 +27,7 @@ The notebook contains different directories that are referenced — of course, y
 This notebook was initially created in an internship at Caltech's Linde and Maxine Center for Global Environmental Science. 
 
 See images of figures from this notebook here: https://drive.google.com/drive/folders/1amnPzMdTfGwJJ76Sbm3Ov9KRWdxvALKo?usp=sharing
+
 See the major progress point presentation here: https://www.canva.com/design/DAG6QTY85S8/68w1TFFip0YZWgzkiJEIug/edit?utm_content=DAG6QTY85S8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Authors + Acknowledgements
